@@ -1,3 +1,5 @@
+Using ContextAPI by making simple Shopping Cart Project.It uses Hooks such as useState,UseEffect,UseContext and useLocation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
